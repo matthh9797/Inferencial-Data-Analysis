@@ -1,2 +1,2 @@
 # Inferencial-Data-Analysis
-Statistical analysis through data analysis of tooth growth dataset and simulating the exponential distribution
+This project aims to display concepts from statistical inference through data analsis of simulated and real-life data. The first section uses simulated data from an exponential distribution to show evidence of well-known results in statistical theory such as the central limit theorem. In the second section there is a data analysis of a ToothGrowth dataset which constructs a hypothesis test to distinguish between different groups in the data.
